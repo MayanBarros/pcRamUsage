@@ -1,0 +1,11 @@
+{
+  "name": "servidorexemplodio",
+  "version": "1.0.0",
+  "description": "Live Coding DIO - Introdução ao NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayanbarros",
+  "license": "ISC"
+}
